@@ -1,0 +1,99 @@
+Description:
+Project Name: Improving Appointment Completion Rates for Publicly Insured Patients
+Clinic: Main Street Healthcare Center
+Process: Clinic scheduling
+TIP 2.0 Process Milestone: Health Equity
+Project Description / Purpose
+Patients with public insurance often face barriers to accessing healthcare services, leading to higher rates of missed
+appointments. This project aims to identify and address these barriers, ensuring that all patients have equitable access
+to primary care services. The purpose of this project is to increase the percentage of completed primary care
+appointments among individuals with public insurance, thereby improving access to healthcare and promoting health
+equity within the patient population.
+
+Overview:
+
+Problem Summary:
+Main Street Healthcare has observed a significant performance gap in the completion of
+primary care appointments among patients with public insurance. Despite efforts to
+provide high-quality care, Main Street has a high no-show rate and low appointment
+adherence among this patient group. The current completion rate for primary care
+appointments among patients with public insurance is 60%, compared to an 85%
+completion rate among privately insured patients. This 25% performance gap indicates
+that patients with public insurance are missing crucial primary care visits, which affects
+their overall health outcomes and the facility's ability to deliver equitable care.
+The impact on patients includes unmanaged chronic conditions, delayed diagnosis of
+new health issues, and inadequate preventive care. Healthcare providers face increased
+workloads and stress as they attempt to accommodate rescheduled appointments and
+manage the health complications arising from missed visits. The high no-show rate
+disrupts clinic operations, leading to inefficiencies, wasted resources, and scheduling
+difficulties, impacting the overall workflow and morale of the staff.
+
+Desired Outcome(s):
+Key Deliverables
+1. Barrier Analysis Report: Detailed analysis of the barriers faced by publicly
+insured patients in completing appointments.
+2. Intervention Plan: Comprehensive plan outlining the targeted interventions to
+address identified barriers.
+3. Educational Materials: Culturally and linguistically appropriate educational
+resources for patients.
+4. Training Programs: Training sessions for staff on the importance of health
+equity and strategies to improve appointment adherence.
+5. Progress Reports: Regular updates on the progress of the project, including key
+metrics and feedback from patients and staff.
+Project Goal
+Increase the percentage of completed primary care appointments among individuals
+with public insurance by 20% within three months.
+
+Benefits:
+Improving completed primary care appointments among patients with public insurance
+enhances health outcomes through early detection and preventive care, reduces
+healthcare costs by lowering emergency visits and hospitalizations, and improves patient
+engagement and satisfaction by fostering trust and continuity of care. It promotes health
+equity by addressing disparities and ensuring equal access to services, empowers
+vulnerable populations, and optimizes resource utilization by reducing no-show rates
+and improving clinic workflow. Additionally, it strengthens community health through
+better population health management and public health initiatives, creating a more
+efficient and equitable healthcare system.
+
+Timeline:
+Description of Task and Completion Dates
+Task 1
+Planning and Analysis (Month 1)
+- Form project team and assign roles.
+- Collect and analyze data on appointment completion rates and barriers.
+- Conduct focus groups and surveys with patients and staff.
+Task 2
+Intervention Development (Month 2)
+- Develop targeted interventions based on barrier analysis.
+- Create educational materials and training programs.
+Task 3
+Implementation (Months 2 and 3)
+- Roll out interventions across the facility.
+- Conduct staff training sessions.
+- Distribute educational materials to patients.
+Task 4
+Monitoring and Evaluation (Month 3)
+- Monitor appointment completion rates and gather feedback.
+- Evaluate the effectiveness of interventions.
+- Adjust strategies based on data and feedback.
+
+Scope:
+In Scope Project Objectives
+All primary care appointments for patients with public insurance, including Medicaid and Medicare
+Out of Scope Project Objectives or Activities
+Specialty care appointments, patients with private insurance, and non-primary care services
+
+Team:
+Team Lead: Jim Mergy 
+Project Champion: Anthony Amezquita
+Process Owner: Lisa Kilburn 
+Process Manager: Nicole Valenzuela
+Stakeholders
+Stakeholder Title Department Organization
+Danielle Dickey Nursing Manager Family Medicine Main Street
+John Rossman Medical Director Family Medicine Main Street
+Project Team Members
+Name Team Role
+Sushma Kapoor Care manager
+Lenard Salzberg Clinical records information specialist
+Jen Rosser Front desk manager

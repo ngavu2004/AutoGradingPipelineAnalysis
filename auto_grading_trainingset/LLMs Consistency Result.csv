@@ -1,0 +1,41 @@
+Prompt ID,Model,Section,Criteria,Grade,Pass,Runtime
+6,Llama3,Description,describe the purpose for conducting the project,80,0,1
+6,Llama3,Description,describe the purpose for conducting the project,60,0,2
+6,Llama3,Description,describe the purpose for conducting the project,70,0,3
+6,Llama3,Description,describe the purpose for conducting the project,80,0,4
+6,Llama3,Description,describe the purpose for conducting the project,90,0,5
+6,Llama3,Description,describe the purpose for conducting the project,95,0,6
+6,Llama3,Description,describe the purpose for conducting the project,95,0,7
+6,Llama3,Description,describe the purpose for conducting the project,100,0,8
+6,Llama3,Description,describe the purpose for conducting the project,50,0,9
+6,Llama3,Description,describe the purpose for conducting the project,75,0,10
+6,ChatGPT,Description,describe the purpose for conducting the project,70,0,1
+6,ChatGPT,Description,describe the purpose for conducting the project,60,0,2
+6,ChatGPT,Description,describe the purpose for conducting the project,70,0,3
+6,ChatGPT,Description,describe the purpose for conducting the project,75,0,4
+6,ChatGPT,Description,describe the purpose for conducting the project,70,0,5
+6,ChatGPT,Description,describe the purpose for conducting the project,80,0,6
+6,ChatGPT,Description,describe the purpose for conducting the project,75,0,7
+6,ChatGPT,Description,describe the purpose for conducting the project,80,0,8
+6,ChatGPT,Description,describe the purpose for conducting the project,75,0,9
+6,ChatGPT,Description,describe the purpose for conducting the project,70,0,10
+2,Llama3,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,70,1,1
+2,Llama3,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,70,1,2
+2,Llama3,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,70,1,3
+2,Llama3,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,70,1,4
+2,Llama3,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,60,1,5
+2,Llama3,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,40,1,6
+2,Llama3,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,20,1,7
+2,Llama3,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,40,1,8
+2,Llama3,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,80,1,9
+2,Llama3,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,80,1,10
+2,ChatGPT,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,40,1,1
+2,ChatGPT,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,50,1,2
+2,ChatGPT,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,50,1,3
+2,ChatGPT,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,50,1,4
+2,ChatGPT,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,45,1,5
+2,ChatGPT,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,55,1,6
+2,ChatGPT,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,60,1,7
+2,ChatGPT,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,55,1,8
+2,ChatGPT,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,60,1,9
+2,ChatGPT,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,50,1,10

@@ -1,0 +1,73 @@
+Description:
+Project Name: HIE/SDOH Referral Integration
+Clinic: All Locations
+Process: Implementation of the Unite US platform
+TIP 2.0 Process Milestone: Health related social needs
+Project Description / Purpose
+Addressing social and economic needs for our members and families to fulfill their needs and maintain their health and
+well-being.
+
+Overview:
+Problem Summary:
+Enter description of problem or performance gap identified here. Include descriptions of
+the impact to staff and/or patients.
+MIKID serves under privileged families in rural communities where social and economic
+resources are limited or nonexistent. MIKID as a stand-alone agency offers a variety of
+services in these locations and recognizes a need for additional resources/Services
+outside our scope.
+The impact on families includes social and economic needs not being met. Families have
+no additional support to these resources. In addition, no access to these resources
+causing a great impact that leads to families vocalizing these needs to our providers.
+Desired Outcome(s):
+Describe the desired outcome(s) of the project
+Implementation of the Unite us platform would give opportunity and access to the
+resources available.
+Hire a SDOH referral coordinator position to lead and coordinate with the families the
+needed/requested resources.
+The goal would be to have 15% of our families/members be signed up on the platform to
+ensure their social and economic needs are met in 3 months.
+Benefits:
+Enter a description of the expected benefits here
+By providing a robust implementation of the unite US platform, we can provide families
+the much needed and requested resources.
+
+Timeline:
+Description of Task and Completion Dates
+Task 1
+Planning- Month 1
+Assign roles
+Lay out the process for implementation.
+Coordinate with multiple departments
+Task 2
+Development & Implementation- Month 2
+Training
+Role out PPT
+Task 3 Implementation- Month 2
+Make the process live
+Task 4 Monitoring & Evaluation- Month 3
+Evaluate and adjust process a needed
+
+Scope:
+In Scope Project Objectives
+Enter a description of the objectives that are in scope here.
+All new Medicaid members upon admission as well as existing members in a renewal period.
+Out of Scope Project Objectives or Activities
+Enter description of the objectives or activities that are out of scope here.
+All existing members that do not fall within a renewal period.
+
+Team:
+Team Lead: Hired SDOH Coordinator
+Position Project Champion: Health Information Manager
+Process Owner: Director of Health
+Information Process Manager: Health Information Manager
+Stakeholders
+Stakeholder Title Department Organization
+Az Complete Health AHCCCS Medicaid payer Southern RBHA Az Complete Health
+Care 1st AHCCCS Medicaid payer Northern RBHA Care 1st
+Mercy Care AHCCCS Medicaid payer Central RBHA Mercy Care
+Project Team Members
+Name Team Role
+TBD Intake specialist- Northern area
+TBD Intake specialist- Central area
+TBD Intake specialist- Southern area
+TBD SDOH Coordinator position

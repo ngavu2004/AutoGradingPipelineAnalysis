@@ -1,0 +1,17 @@
+Filename,Author,Section,Criteria,Total points,Reson deduct points
+input.txt,example2,,,6,
+input2.txt,Angela Abad,,,5,Team missing Project champion and Process manager
+input3.txt,Kim Briggs,,,5,"I do not see enough detail on problem summary, desired outcomes, and benefits."
+input4.txt,example1,,,6,
+input5.txt,Yesenia Bravo,,,6,
+input6.txt,Malca Cortez,,,5,No project description
+input7.txt,crystal,,,5,the project milestone doesn't look right
+input8.txt,Sarah Davis,,,5,the project milestone lack detail
+input9.txt,Jennifer Diaz-Montano,,,3,"I do not see enough detail about the project description and purpose statement; I see project tasks but no due dates; The scope objectives do not match the previously stated project purpose. The project scope objectives could simply be ""To better address the HRSN needs of patients"". The out of scope objective could be ""We are not implementing any other platforms""."
+input10.txt,Karen Eynon,,,5,"I do not see enough detail about the project description and purpose statement. I recommend a clear statement like ""The purpose of this project is to implement a ...""."
+input11.txt,Simulated / Caryn Hahne,,,2,"Fail in Description (lack purpose/expected result), Overview(lack outcomes and benefits), Timeline (lack due date), Team members (lack every fields in team section)"
+input12.txt,Simulated / Nick Thelen,,,1,"Fail in Description (lack name, clinic, milestone, description), Overview (doesn't describe the problems), Timeline (lack key tasks), Team members (lack project owner/champion/manager), Milestone"
+input13.txt,Simulated / Sonnette,,,2,"Milestone, Timeline, Scope, Team"
+input14.txt,Simulated / Angela Roumain,,,2,"Milestone, Description, Scope, Team"
+input15.txt,Simulated / Michelle Reyes,,,1,"Fail in Scope, Overview (no problem summary), Timeline (lack due date), Team members, Milestone"
+input16.txt,Simulated/ Kolleen Weber,,,0,"Team: Lack teamlead, timeline: lack due date, fail everything"

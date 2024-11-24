@@ -1,0 +1,28 @@
+section_id,description,long_description
+_7292,Process Milestone,"Identifies the process milestone target for this project. <br/>
+<br/>
+If no target, then includes explanation with compelling rationale for why a process milestone was not chosen.<br/>
+<br/>
+Alternative project targets must still address clinical, operational, or financial processes related to health equity, health-related social needs, or integrated care. AHCCCS and ASU will notify TIP providers of any project charters that do not meet criteria."
+_4258,Project Description,"Includes a brief description of the project.<br/>
+<br/>
+Describes purpose for conducting the project.<br/>
+<br/>
+Describes what is expected to result from the project."
+_4499,Project Overview,"Describes problem or performance gap with descriptions of impact on staff and/or patients.<br/>
+<br/>
+Describes the desired outcome(s) of the project.<br/>
+<br/>
+Identifies expected benefits."
+_3182,Timeline,Lists each key task and planned completion dates.
+_5706,Project Scope,"Explains objectives that are in scope.<br/>
+<br/>
+Generally, describes objectives that are out of scope."
+_7464,Project Team,"Identifies:<br/>
+<br/>
+1. Team Lead<br/>
+2. Project Champion<br/>
+3. Process Owner<br/>
+4. Process Manager<br/>
+5. Stakeholders<br/>
+6. Team Members"

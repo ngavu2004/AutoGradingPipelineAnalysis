@@ -1,0 +1,37 @@
+Description:
+Project Name: HRSN Screening, diagnosis and referral
+Clinic: HRT
+Process: HRSN Screening, documentation, diagnosis and referrals
+TIP 2.0 Process Milestone:
+Core Component 3 Process for Screening for HRSN
+Project Description / Purpose
+The HRSN screening process needs to be implemented.
+
+
+Overview:
+Problem Summary:
+The staff need to be trained on the HRSN screening, Z code diagnosis, and HRSN. We
+are currently not able to report data on this process.
+Identified barriers include training on the PCAM and Z codes, staff not fully
+understanding the impact of HRSN on clients and their health, issues in the EHR for Z
+codes diagnosis.
+
+Timeline:
+Description of Task and Completion Dates
+Task 1 Conduct a training for all staff on HRSN and PCAM, and include expectations for the use of the PCAM,
+Task 2 Work with internal EHR team to streamline process for adding Z codes
+Task 3 Run reports on PCAM completion and establish baseline
+Task 4 Run and track PCAM completion and if completion is not improving complete a root cause analysis and
+modify plan as needed, at minimum monthly
+Task 5 Review findings with executive and clinical leadership monthly, monthly.
+
+Scope:
+In Scope Project Objectives
+The project is improve the use of PCAM in the intake and annual assessment by using this improvement plan and
+modify as needed.
+Out of Scope Project Objectives or Activities
+At this time we are not identifying any objectives outside the scope of the project, and this may change is the process
+improvement is not seen and we conduct an additional root cause analysis and identify other concerns.
+
+Team:
+Team Lead: 

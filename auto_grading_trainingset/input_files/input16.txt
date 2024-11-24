@@ -1,0 +1,50 @@
+Description:
+Project Name: Fluoride Varnish Promotion
+Clinic: Pediatrics GPS DBA: Children’s Medical Center of Tucson
+Process: Application of Fluoride Varnish
+TIP 2.0 Process Milestone: 
+Project Description / Purpose
+Fluoride varnish application is used to prevent tooth decay and strengthen tooth enamel. The purpose of this project is
+to reduce dental caries and to promote oral health. We anticipate that our patients will have improved engagement
+with their Dental Home and improved oral health.
+
+Overview:
+Problem Summary:
+Tooth decay is one of the most common diseases seen in children today. Children as
+young as 10 months can have tooth decay. Tooth decay can cause pain and may prevent
+children from being able to eat, speak and sleep.
+Desired Outcome(s):
+Increase Fluoride applications at well visits and stress importance of oral health for our
+patients.
+Benefits:
+Strengthening tooth enamel, prevent cavities, protect against acid erosion and
+promoting overall oral health.
+
+
+Timeline:
+Description of Task and Completion Dates
+Task 1 Educate the Medical Assistants on the importance of Fluoride application
+Task 2 Verify that all providers are trained to apply fluoride varnish
+Task 3 Have the fluoride varnish kits stocked in all patient exam rooms
+Task 4 Verify by running reports that the fluoride application is being applied at well visits
+Task 5 Continue to monitor compliance every month.
+
+Scope:
+In Scope Project Objectives
+Input something here
+Out of Scope Project Objectives or Activities
+Input something here
+
+Team:
+Team Lead:
+Project Champion: Kolleen Weber
+Process Owner: Kolleen Weber 
+Process Manager: Mohammed Nomaan
+Stakeholders
+Stakeholder Title Department Organization
+Kolleen Weber Adminstrator Pediatrics CMCT
+Mohammed Nomaan Medical Director Pediatrics CMCT
+Project Team Members
+Name Team Role
+Deb Fox Asst. Administrator
+Diane Molina Supervisor of Medial Assistants

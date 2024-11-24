@@ -1,0 +1,80 @@
+Description:
+Project Name: Social Determinants of Health Screening
+Clinic: Arbor Medical Partner practices
+Process: Distribution of screening tool, documentation of results, and closed loop referral process
+for needed concerns
+TIP 2.0 Process Milestone: Milestone 3
+Project Description / Purpose
+Screening for health-related social needs (or social determinants of health) allows a clinician to assess a comprehensive
+history of lifestyle and social factors that impact health. Screening for HRSN has demonstrated a positive impact on
+health outcomes, decrease in emergency room visit, and improved establishment of healthy habits. Barriers to seeking
+health care, lifestyle choices, and/or safety are easier to identify and interventions offered. Screening in a pediatric
+primary care practice impacts both the pediatric patient and the overall health of the family.
+
+Overview:
+Problem Summary:
+Consistent and universal screening for health-related social needs of the pediatric
+population improved health outcome and reduces overall healthcare costs. Screening
+has also been demonstrated to decrease health disparities. Variable studies have
+suggested that 19-65% of families screened report at least one HRSN. Of those who
+reported a HRSN, 22-58% accepted resources to address these needs. Barriers include
+time limits to address such issues, clinicians feeling unable to address identified needs,
+trust and/or reluctance of patients to divulge concerns. A recent study suggests that
+patients are more likely to answer HRSN screening electronically versus paper. While
+access to internet is also a barrier, having access to inoffice electronic screening can help
+relieve this. Thus this program strives to assess HRSN to improve health behaviors and
+outcomes while decreasing barrier and disparities in receiving care.
+Desired Outcome(s):
+1. Institute and increase routine HRSN (SDOH) screening annually
+2. Establish relationship with community based referral source to address
+identified needs on screening
+3. Connect families with identified needs with community resources
+4. Decrease barriers to receiving health care
+5. Create efficient and effective screening workflow that
+Benefits:
+With effective screening that limits barriers and a workflow that connects needs with
+resources, a decrease in social needs that negatively impact health are decreased and
+health outcomes in children, family and later adults are improved.
+
+Timeline:
+Description of Task and Completion Dates
+Task 1 Assessment of current strategies for assessing HRSN within Arbor practices – Feb 29, 2024
+Project Charter
+Task 2 Research and choose a evidence based HRSN screening tool – March 30, 2024
+Task 3 Develop relationship with community based referral organization and secure resources needed for
+closed loop referral process - April 30, 2024
+Task 4 Develop workflow for administering screening tool and secure resources needed - April 30, 2024
+Task 5 Pilot screening workflow in 2 Arbor practices – May 20, 2024
+Task 6 Assess workflow and adjust elements to improve screening process and referral system – June 15, 2024
+Task 7 Educate clinician and staff in all practice on workflow for administering screening tool and connecting
+families with community resources – June 25, 2024
+Task 8 Initiate screening/referral workflow for all Arbor practices – July 8, 2024
+* Add new rows as needed.
+
+Scope:
+In Scope Project Objectives
+Objective for this project is to utilize quality improvement strategies to establish an effective and efficient HRSN
+(SDOH) screening workflow for pediatric primary care practices of Arbor Medical Partner that includes a closed loop
+referral process that connects families with needs with a community based referral resource.
+Out of Scope Project Objectives or Activities
+This project does not address area for which additional screening tools are utilized, such as behavioral health
+diagnosis or developmental delay. No additional staff can be hired to meet these objectives, and minimal impact
+should be made on current clinician and staff visit length.
+
+Team:
+Team Lead: Arbor Social Work – and
+Karen Eynon Project Champion: Karen Eynon
+Process Owner: Raegan Post Process Manager: Karen Eynon
+Stakeholders
+Stakeholder Title Department Organization
+Karen Eynon Regional Lead Clinician Pediatrics Arbor Medical Partners
+Lisa Engel Senior Regional Medical
+Director Pediatrics Pediatric Associates
+Tricia Juba Director of Operations Pediatrics Arbor Medical Partners
+Sally Kikuchi Vice President of
+Operations Pediatrics Pediatric Associates
+Project Team Members
+Name Team Role
+Ean Goldberg Social Worker – SDOH Referral coordinator
+Karen Eynon Regional Lead Clinician – TI program coordinator
+Raegan Post Program Logistics Coordinator

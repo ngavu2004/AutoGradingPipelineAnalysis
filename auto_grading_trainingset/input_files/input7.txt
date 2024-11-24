@@ -1,0 +1,83 @@
+Description:
+Project Name: Decrease health disparities by identifying health needs by increasing access to
+preventative screenings.
+Clinic: Southwest Network Pediatric Clinics
+Process: Complete metabolic laboratory testing and vitals for children receiving services as
+identified in best practices from SAMHSA.
+TIP 2.0 Process Milestone: Process, policies, and increase health equity to patients.
+Project Description / Purpose
+Health disparities are inequitable and are directly related to the unequal distribution of social, political, environmental
+resources. For the children that are receiving psychiatric care in Southwest Networks pediatric clinics, this comes in the
+form of increased incidence of chronic conditions because of necessary prescribing of antipsychotic medications.
+Identifying risk factors for childhood diabetes, hypertension, and obesity will be increased with routine, scheduled
+metabolic testing for all children prescribed antipsychotic medications, which significantly increases risk factors for
+chronic conditions. Completion of metabolic screenings and vitals (height, weight, blood pressure, lipid profiles, other
+as clinically indicated).
+
+Overview:
+Problem Summary:
+Antipsychotic prescribing for children and adolescents can elevate risk factors
+for developing serious metabolic health complications that can lead to lifelong
+chronic conditions (NCQA, 2024). Antipsychotic medications can lead to weight
+gain, insulin resistance, hyperlipidemia, increase the risk of developing Type 2
+diabetes and other cardiovascular diseases. Regular metabolic testing ensures
+early detection and management of these potential side effects, safeguarding
+the child's overall health and well-being while enabling the safe and effective
+use of necessary psychiatric treatments.
+Desired Outcome(s):
+Identify risk factors that could lead to chronic conditions by offering preventative
+metabolic screenings for each child prescribed antipsychotic medications. Offering
+families resources to decrease the risk of developing chronic conditions through
+community cares (UNITEUS) closed loop system, and other community providers.
+Benefits:
+Addressing risk factors are important for improving overall health, reducing health
+disparities in the community.
+
+Timeline:
+Description of Task and Completion Dates
+Project Charter
+Task 1
+Provide primary education to all staff about the process for completing labs, vitals, and best practices for
+prescribing. The marketing team is completing educational literature for staff and patients/families.
+This will be completed by 07/31/2024
+Task 2 Identification of all patients <17 years old prescribed antipsychotic medications and are in need of
+metabolic testing. Completion date: 07/06/2024
+Task 3
+Outreach families and schedule routine preventative screenings at their regularly scheduled medication
+management appointment. Results will be shared with prescribing clinicians and primary care
+providers. Completion date: 08/15/2024
+Task 4 Follow up appts, via telemedicine or in person (patient choice), will provide results and provide
+education, resources to families. Completion date: 09/30/2024 and ongoing process
+Task 5 The quality team will assess process and offer continuous quality improvement activities. Completion
+date: ongoing
+* Add new rows as needed.
+
+Scope:
+In Scope Project Objectives
+One of the areas the organization will focus on over the next year is to improve health equity across the
+population. This will be accomplished by having an incremental increase in access to healthcare services,
+including preventative screenings. Another area will be to provide continuous education to staff, patients
+and stakeholders in prevention strategies and need.
+Out of Scope Project Objectives or Activities
+Hiring of staff dedicated to providing education, laboratory services and prevention education training to all
+populations.
+
+Team:
+Team Lead: Crystal Domblisky-Klein,
+MPH Project Champion: Elizabeth Odahlen, MAPC
+Process Owner: Crystal Domblisky-Klein,
+MPH Process Manager: Janelle Westfall, LPC
+Stakeholders
+Stakeholder Title Department Organization
+Nahid Nadiri, MD Medical Director Administration Southwest network
+Jaime Michel, MD
+Tiffany Sylvester, NP Psychiatrist , BHMP Childrens division Southwest Network
+AHCCCS and Mercy Care Funding sources/insurance
+carriers
+Project Team Members
+Name Team Role
+Alex Romonoski, Data Intelligence Director Data integrity and process
+Katrina Noyes, MPA Chief Quality and Compliance Officer
+Lana Winnie, LPC Clinical Director
+Rogelio Calderon, LASAC Director of Training and Development
+David Conger, LMSW Director of Quality

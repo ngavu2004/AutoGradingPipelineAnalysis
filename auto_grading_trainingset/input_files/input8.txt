@@ -1,0 +1,51 @@
+Description:
+Project Name: Z Code Utilization - Peds
+Clinic: HealthyU
+Process: Documenting Z code diagnosis via the use of the HRSN tool
+TIP 2.0 Process Milestone: Milestone 3
+Project Description / Purpose
+Identification and adding of appropriate Z Code diagnosis via the use of the HRSN screening tool allows HealthyU to
+have the ability to track and stratify social determinants of health needs across the patient population, including in
+children and adolescents. Current utilization of Z codes diagnoses are relatively low. The purpose of this project is to
+improve the identification and utilization of Z code diagnoses via the HRSN screening tool.
+Overview:
+Problem Summary:
+HealthyU administers HRSN screenings to all patients & patient caregivers for children
+as part of the patient check-in process. However, conversion of the HRSN screening
+results into trackable Z-code diagnosis is currently at 14%. This limits the clinic’s ability
+to track patient identified social needs across the entire patient population.
+Desired Outcome(s):
+Increase the number of patients with appropriate Z-code diagnoses.
+Benefits:
+This process will increase the opportunity to track patient health related social needs
+across the patient population to identify trends related to social determinants of health
+and address any areas where there is a need for additional community
+resources/support.
+Timeline:
+Description of Task and Completion Dates
+Task 1 Meet with medical providers to determine barriers to conversion of HRSN screening results into Z-code
+diagnosis (July 30)
+Task 2 Complete a Root Cause Analysis to identify additional process issues (August 15)
+Task 3 Identify medical providers who are excelling at Z code usage to leverage their support in the project
+(August 15)
+Task 4 Re-train medical providers on the Z-code diagnosis screening and attribution process (September 30)
+Task 5 Monitor performance through PDSA cycles (December 31)
+* Add new rows as needed.
+
+Scope:
+In Scope Project Objectives
+The primary objective of this project is to utilize quality improvement strategies to increase utilization of Z-code
+diagnoses.
+Out of Scope Project Objectives or Activities
+We are not changing the current HRSN screening process from the patient side, or changing the HRSN screening
+tool.
+
+Team:
+Team Lead: Emily Bofetta Project Champion: Shane Speirs, MD
+Process Owner: Sarah Davis Process Manager: Cassandra Anderson
+Stakeholders
+Stakeholder Title Department Organization
+Shane Spiers Chief Medical Officer HealthyU
+Project Team Members
+Name Team Role
+Lauren Havard, MD Team Co-Champion

@@ -1,0 +1,79 @@
+Description:
+Project Name: Equity in Health: Bridging Gaps for a Healthier Community
+Clinic: All Denova Clinics
+Process: Utilizing the information gathered from the SDOH screeners to identify inequities
+TIP 2.0 Process Milestone: Milestone 3
+Project Description / Purpose
+The project involves utilizing Social Determinants of Health (SDOH) data.
+
+Overview:
+Problem Summary:
+Currently, we are collecting the SDOH data, but we are limited in analyzing that
+information to identify health inequities and health-related social needs. The
+information is captured in our electronic medical record, but it is not easily extrapolated
+into meaningful information.
+Desired Outcome(s):
+The desired outcomes of this project are:
+- Utilize our existing ODBC connection to build Tableau reports to aggregate
+demographic, clinical, and SDOH scoring data. This report will serve as a bridge
+as we move from our existing EHR to an upgraded system with more robust
+population health reporting.
+- Design a seamless reporting system to minimize trends to data points while
+implementing a new EMR system. Anticipated implementation will be Q4
+2024/Q1 2025.
+- Data analysis will guide needed interventions. Anticipated area of focus to be
+on transportation to and from medical and behavioral health treatment.
+Benefits:
+As an integrated ambulatory practice, we recognize that screening for health-related
+social needs offers substantial benefits that enhance patient care and outcomes. By
+identifying and addressing factors such as housing instability, food insecurity,
+transportation challenges, and social isolation within the outpatient setting, healthcare
+providers can offer a more comprehensive and patient-centered approach. This
+integration allows for immediate referrals to social services and community resources,
+Project Charter
+ensuring that patients receive the necessary support to manage their health conditions
+effectively. Consequently, this proactive strategy can prevent complications, reduce
+emergency room visits, and decrease hospital readmissions, ultimately leading to better
+health outcomes and lower healthcare costs.
+Moreover, incorporating social needs screening into the routine workflow of an
+integrated ambulatory practice fosters stronger patient-provider relationships. When
+patients see that their healthcare team cares about their overall well-being, including
+their social circumstances, they are more likely to trust and engage with their providers.
+This trust is crucial for effective chronic disease management and adherence to
+treatment plans. Additionally, by addressing social determinants of health, the practice
+can help mitigate health disparities, promoting greater health equity among its patient
+population. This holistic approach not only improves individual patient experiences but
+also strengthens the overall effectiveness and efficiency of the healthcare system.
+
+Timeline:
+Description of Task and Completion Dates
+Task 1 Create sub-committee to TI related project.
+Task 2 Policy & procedure drafts to Policy Advisory Committee – 7/25/24
+Task 3 Validate reporting workflow with IT&S team for G- and Z-codes associated with HRSN– 8/01/24
+Task 4
+Initial reporting workflow for patient population demographic data and HRSN scoring domains with IT&S
+team – 8/30/24
+Task 5 Final review and validation of data – 9/15/24
+Task 6 Data analysis complete – identify targeted intervention based on findings – 9/30/24
+
+Scope:
+In Scope Project Objectives
+Assessment and Planning
+Out of Scope Project Objectives or Activities
+Hiring additional staff
+
+Team:
+Henry Haun Director of Patient
+Experience Engagement Center Denova Collaborative
+Health
+Elisa Kalakosky Clinic Director Operations Denova Collaborative
+Health
+Laura Aldridge Clinic Director Operations Denova Collaborative
+Health
+Project Team Members
+Name Team Role
+Anthony Montoya Patient chart creation
+Alex Mercado EMR input
+Sam Statom Tableau
+Kelly Haskins SDOH collection
+Kimbralon Barnes SDOH collection

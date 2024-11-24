@@ -1,0 +1,73 @@
+Description:
+Project Name: Implementing a new referral process
+Clinic: Kids and Family Kare
+Process: The provider will request referrals for a patient and send the task to a medical assistant.
+The Medical assistant will then look for a specialist near the patient’s home that accepts
+patient insurance. Once the referral is made and faxed to the specialist office, the patient
+will receive a call from the medical assistant to share this information. In a week, the
+medical assistant will contact the patient again and make sure the appointment has been
+made with a specialist.
+TIP 2.0 Process Milestone: Referrals
+Project Description / Purpose
+This new referral process will help us create better communication between the patients and ensure they are receiving
+proper care.
+
+Overview:
+Problem Summary:
+With our current referral process, after the referral is made, we do not reach out to
+confirm an appointment has been made with the specialist, therefore, many patients do
+not continue with their plan of care.
+Desired Outcome(s):
+Have better communication between patients and their specialists.
+Benefits:
+Patients will continue their plan of care and communication between primary care and
+specialists will become better.
+
+Timeline:
+Description of Task and Completion Dates
+Project Charter
+Task 1 By 07/15/2024 inform staff of new referral implementation and start new process.
+Task 2 07/29/2024 interview staff to make sure workflow has not been affected.
+Task 3
+08/05/2024 follow up to see if there have been any positive changes with patients scheduling
+appointments with their specialists.
+Task 4
+08/15/2024 follow up to make sure we are receiving patient medical records correctly based on referral
+logs.
+
+Scope:
+In Scope Project Objectives
+1. Training and Informing Staff: Conduct training sessions to inform all relevant staff (providers, medical
+assistants, administrative staff) about the new referral process and its implementation.
+2. Referral Process Implementation: Ensure medical assistants locate specialists near the patient's home who
+accept the patient's insurance, make the referrals, and fax the referral details to the specialist's office.
+3. Patient Communication and Follow-Up: Implement a system where medical assistants call patients to
+inform them about the referral and follow up after one week to confirm that the appointment has been
+made with the specialist
+Out of Scope Project Objectives or Activities
+Out of Scope Project Objectives or Activities
+1. Specialist Office Coordination: Directly coordinating with specialist offices to ensure they have received the
+referral and scheduling the appointments for the patients is out of scope.
+2. Insurance Verification Beyond Initial Referral: Verifying and handling any insurance issues that arise after
+the initial referral process is out of scope. This includes dealing with any changes in insurance or coverage
+issues that the patient might face after the referral is made.
+3. Patient Transport Arrangements: Arranging transportation for patients to attend specialist appointments is
+out of scope. Patients will be responsible for their own transportation to and from specialist appointments
+
+Team:
+Team Lead: Zugey Rojo Project Champion: Dr. Carlos Lopez
+Process Owner: Malca Cortez Process Manager: Dr. Carlos Lopez
+Stakeholders
+Stakeholder Title Department Organization
+Dr Carlos Lopez Provider Management - Provider Kids and Family Kare
+Malca Cortez Referral coordinator Kids and Family Kare -
+Thomas
+Kids and Family Kare
+Alma Lira Medical Assistant Kids and Family Kare
+Thomas Kids and Family Kare
+Project Charter
+Project Team Members
+Name Team Role
+Signatures
+Process Owner Malca Cortez
+Project Champion Dr Carlos Lopez

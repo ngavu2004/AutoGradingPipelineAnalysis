@@ -1,0 +1,637 @@
+[
+    {
+        "id": 1942171,
+        "context_id": 8575713,
+        "context_type": "Course",
+        "data": [
+            {
+                "description": "Process Milestone",
+                "long_description": "Identifies the process milestone target for this project. <br/>\r\n<br/>\r\nIf no target, then includes explanation with compelling rationale for why a process milestone was not chosen.<br/>\r\n<br/>\r\nAlternative project targets must still address clinical, operational, or financial processes related to health equity, health-related social needs, or integrated care. AHCCCS and ASU will notify TIP providers of any project charters that do not meet criteria.",
+                "points": 1.0,
+                "id": "_7292",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_7292",
+                        "id": "blank"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_7292",
+                        "id": "blank_2"
+                    }
+                ]
+            },
+            {
+                "description": "Project Description",
+                "long_description": "Includes a brief description of the project.<br/>\r\n<br/>\r\nDescribes purpose for conducting the project.<br/>\r\n<br/>\r\nDescribes what is expected to result from the project.",
+                "points": 1.0,
+                "id": "_4258",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_4258",
+                        "id": "_1303"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_4258",
+                        "id": "_408"
+                    }
+                ]
+            },
+            {
+                "description": "Project Overview",
+                "long_description": "Describes problem or performance gap with descriptions of impact on staff and/or patients.<br/>\r\n<br/>\r\nDescribes the desired outcome(s) of the project.<br/>\r\n<br/>\r\nIdentifies expected benefits.",
+                "points": 1.0,
+                "id": "_4499",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_4499",
+                        "id": "_625"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_4499",
+                        "id": "_6709"
+                    }
+                ]
+            },
+            {
+                "description": "Timeline",
+                "long_description": "Lists each key task and planned completion dates.",
+                "points": 1.0,
+                "id": "_3182",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_3182",
+                        "id": "_3905"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_3182",
+                        "id": "_7456"
+                    }
+                ]
+            },
+            {
+                "description": "Project Scope",
+                "long_description": "Explains objectives that are in scope.<br/>\r\n<br/>\r\nGenerally, describes objectives that are out of scope.",
+                "points": 1.0,
+                "id": "_5706",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_5706",
+                        "id": "_7567"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_5706",
+                        "id": "_8113"
+                    }
+                ]
+            },
+            {
+                "description": "Project Team",
+                "long_description": "Identifies:<br/>\r\n<br/>\r\n1. Team Lead<br/>\r\n2. Project Champion<br/>\r\n3. Process Owner<br/>\r\n4. Process Manager<br/>\r\n5. Stakeholders<br/>\r\n6. Team Members",
+                "points": 1.0,
+                "id": "_7464",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_7464",
+                        "id": "_6257"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_7464",
+                        "id": "_9207"
+                    }
+                ]
+            }
+        ],
+        "points_possible": 6.0,
+        "title": "Project Charter",
+        "reusable": false,
+        "public": false,
+        "read_only": true,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "rating_order": "descending"
+    },
+    {
+        "id": 1942172,
+        "context_id": 8575713,
+        "context_type": "Course",
+        "data": [
+            {
+                "description": "Alignment with Project Charter",
+                "long_description": "Aligns with original project charter.",
+                "points": 1.0,
+                "id": "_6646",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_6646",
+                        "id": "blank"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_6646",
+                        "id": "blank_2"
+                    }
+                ]
+            },
+            {
+                "description": "Clarity and completeness",
+                "long_description": "Map clearly depicts all steps in the process, including decision points and alternative paths.",
+                "points": 1.0,
+                "id": "_6001",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_6001",
+                        "id": "_6247"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_6001",
+                        "id": "_8349"
+                    }
+                ]
+            },
+            {
+                "description": "Accuracy",
+                "long_description": "Symbols and terminology are used correctly and consistently.",
+                "points": 1.0,
+                "id": "_8192",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_8192",
+                        "id": "_2219"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_8192",
+                        "id": "_9356"
+                    }
+                ]
+            },
+            {
+                "description": "Visual appeal and organization",
+                "long_description": "Map is visually appealing, well-organized, and easy to follow.",
+                "points": 1.0,
+                "id": "_276",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_276",
+                        "id": "_7534"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_276",
+                        "id": "_5569"
+                    }
+                ]
+            },
+            {
+                "description": "Data flow",
+                "long_description": "Data flow is clearly identified and accurately represented throughout the map.",
+                "points": 1.0,
+                "id": "_819",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_819",
+                        "id": "_6644"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_819",
+                        "id": "_3902"
+                    }
+                ]
+            },
+            {
+                "description": "Report - Introduction",
+                "long_description": "Briefly describes the process being mapped. <br/>\r\n<br/>\r\nStates the purpose of the process mapping exercise. <br/>\r\n<br/>\r\nMentions the date and participants involved.",
+                "points": 1.0,
+                "id": "_3594",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_3594",
+                        "id": "_8719"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_3594",
+                        "id": "_3906"
+                    }
+                ]
+            },
+            {
+                "description": "Report - Analysis and Findings",
+                "long_description": "Analyzes the process map to identify strengths, weaknesses, opportunities for improvement.",
+                "points": 1.0,
+                "id": "_55",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_55",
+                        "id": "_9344"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_55",
+                        "id": "_239"
+                    }
+                ]
+            },
+            {
+                "description": "Report - Recommendations",
+                "long_description": "Proposes specific and actionable recommendations for process improvement.<br/>\r\n<br/>\r\nPrioritizes recommendations based on their potential impact and feasibility",
+                "points": 1.0,
+                "id": "_675",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_675",
+                        "id": "_6170"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_675",
+                        "id": "_495"
+                    }
+                ]
+            }
+        ],
+        "points_possible": 8.0,
+        "title": "Process Mapping",
+        "reusable": false,
+        "public": false,
+        "read_only": true,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "rating_order": "descending"
+    },
+    {
+        "id": 1942173,
+        "context_id": 8575713,
+        "context_type": "Course",
+        "data": [
+            {
+                "description": "Alignment with Project Charter",
+                "long_description": "Aligns with original project charter.",
+                "points": 1.0,
+                "id": "_606",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_606",
+                        "id": "blank"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_606",
+                        "id": "blank_2"
+                    }
+                ]
+            },
+            {
+                "description": "Problem Definition",
+                "long_description": "Precisely defines the problem and its impact on the organization or customer experience",
+                "points": 1.0,
+                "id": "_8028",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_8028",
+                        "id": "_5696"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_8028",
+                        "id": "_9496"
+                    }
+                ]
+            },
+            {
+                "description": "Data Collection",
+                "long_description": "Identifies the chosen RCA methodology. <br/>\r\n<br/>\r\nCopy of completed RCA method is submitted with report. <br/>\r\n<br/>\r\nEmploys diverse and relevant data sources (quantitative &amp; qualitative).",
+                "points": 1.0,
+                "id": "_9798",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_9798",
+                        "id": "_7476"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_9798",
+                        "id": "_7014"
+                    }
+                ]
+            },
+            {
+                "description": "Data Analysis",
+                "long_description": "Analyzes data using multiple techniques (statistical analysis &amp; visual tools), identifying key trends and patterns. These techniques are clear in the completed RCA method.",
+                "points": 1.0,
+                "id": "_1401",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_1401",
+                        "id": "_3543"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_1401",
+                        "id": "_5435"
+                    }
+                ]
+            },
+            {
+                "description": "Identifying Potential Root Causes",
+                "long_description": "Summarizes key findings of RCA method. <br/>\r\n<br/>\r\nGenerates a list of potential root causes supported by data and logical reasoning.",
+                "points": 1.0,
+                "id": "_5603",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_5603",
+                        "id": "_1105"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_5603",
+                        "id": "_7535"
+                    }
+                ]
+            },
+            {
+                "description": "Developing Corrective Actions",
+                "long_description": "Proposes specific and targeted actions to address the verified root cause and prevent recurrence.<br/>\r\n<br/>\r\nAssigns ownership and timelines for each action item.",
+                "points": 1.0,
+                "id": "_1518",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_1518",
+                        "id": "_4524"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_1518",
+                        "id": "_5810"
+                    }
+                ]
+            }
+        ],
+        "points_possible": 6.0,
+        "title": "Root Cause Analysis",
+        "reusable": false,
+        "public": false,
+        "read_only": true,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "rating_order": "descending"
+    },
+    {
+        "id": 1942175,
+        "context_id": 8575713,
+        "context_type": "Course",
+        "data": [
+            {
+                "description": "Alignment with Project Charter",
+                "long_description": "Aligns with original project charter.",
+                "points": 1.0,
+                "id": "_9781",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets Criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_9781",
+                        "id": "blank"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_9781",
+                        "id": "blank_2"
+                    }
+                ]
+            },
+            {
+                "description": "Plan",
+                "long_description": "Clear and specific SMART aim for improvement.<br/>\r\n<br/>\r\nPlan outlines steps, methods, team members, and data collection plan.<br/>\r\n<br/>\r\nPlan describes expected prediction or outcome of the cycle.",
+                "points": 1.0,
+                "id": "_4528",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets Criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_4528",
+                        "id": "_8465"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_4528",
+                        "id": "_5420"
+                    }
+                ]
+            },
+            {
+                "description": "Do",
+                "long_description": "Data collection displays record of all activities and observations according to the original plan.",
+                "points": 1.0,
+                "id": "_3605",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets Criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_3605",
+                        "id": "_8857"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_3605",
+                        "id": "_9727"
+                    }
+                ]
+            },
+            {
+                "description": "Study",
+                "long_description": "Data analysis is thorough and identifies key insights and trends.<br/>\r\n<br/>\r\nAnalysis compares prediction and analysis of data.<br/>\r\n<br/>\r\nSummary is clearly presented and linked back to the initial problem and aim.",
+                "points": 1.0,
+                "id": "_6758",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets Criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_6758",
+                        "id": "_4994"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_6758",
+                        "id": "_6442"
+                    }
+                ]
+            },
+            {
+                "description": "Act",
+                "long_description": "Clear and actionable conclusions drawn from the analysis.<br/>\r\n<br/>\r\nProposed actions are based on evidence and align with the findings.<br/>\r\n<br/>\r\nReflection on the overall PDSA cycle and potential for future iterations.",
+                "points": 1.0,
+                "id": "_8217",
+                "criterion_use_range": false,
+                "ratings": [
+                    {
+                        "description": "Meets Criteria",
+                        "long_description": "",
+                        "points": 1.0,
+                        "criterion_id": "_8217",
+                        "id": "_5957"
+                    },
+                    {
+                        "description": "Does not meet criteria",
+                        "long_description": "",
+                        "points": 0.0,
+                        "criterion_id": "_8217",
+                        "id": "_9864"
+                    }
+                ]
+            }
+        ],
+        "points_possible": 5.0,
+        "title": "PDSA Cycle",
+        "reusable": false,
+        "public": false,
+        "read_only": true,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "rating_order": "descending"
+    }
+]

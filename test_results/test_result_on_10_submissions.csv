@@ -1,0 +1,111 @@
+,filename,AI_Grade,Section,Criteria,Real_Grade
+0,auto_grading_trainingset\input_files\input.txt,100,Milestone,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+1,auto_grading_trainingset\input_files\input.txt,100,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+2,auto_grading_trainingset\input_files\input.txt,100,Description,describe the purpose for conducting the project,100
+3,auto_grading_trainingset\input_files\input.txt,100,Description,describe what is expected to result from the project,100
+4,auto_grading_trainingset\input_files\input.txt,80,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+5,auto_grading_trainingset\input_files\input.txt,90,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+6,auto_grading_trainingset\input_files\input.txt,75,Timeline,list each key task and planned completion dates,100
+7,auto_grading_trainingset\input_files\input.txt,90,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+8,auto_grading_trainingset\input_files\input.txt,100,Scope,explain objectives that are in scope. These objectives should match the previously stated project purpose,100
+9,auto_grading_trainingset\input_files\input.txt,100,Scope,describes objectives that are out of scope. It should be an objective or activity that is peripheral but clearly out of the focus of the project,100
+10,auto_grading_trainingset\input_files\input.txt,100,Team,"needs to identify: 1) Team Lead, 2) Project Champion, 3) Process Owner; 4) Process Manager; 5) Stakeholders; 6) Team Members. All project roles are filled with individual names.",100
+0,auto_grading_trainingset\input_files\input10.txt,100,Milestone,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+1,auto_grading_trainingset\input_files\input10.txt,100,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+2,auto_grading_trainingset\input_files\input10.txt,80,Description,describe the purpose for conducting the project,0
+3,auto_grading_trainingset\input_files\input10.txt,90,Description,describe what is expected to result from the project,0
+4,auto_grading_trainingset\input_files\input10.txt,80,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+5,auto_grading_trainingset\input_files\input10.txt,80,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+6,auto_grading_trainingset\input_files\input10.txt,95,Timeline,list each key task and planned completion dates,100
+7,auto_grading_trainingset\input_files\input10.txt,95,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+8,auto_grading_trainingset\input_files\input10.txt,50,Scope,explain objectives that are in scope. These objectives should match the previously stated project purpose,100
+9,auto_grading_trainingset\input_files\input10.txt,50,Scope,describes objectives that are out of scope. It should be an objective or activity that is peripheral but clearly out of the focus of the project,100
+10,auto_grading_trainingset\input_files\input10.txt,50,Team,"needs to identify: 1) Team Lead, 2) Project Champion, 3) Process Owner; 4) Process Manager; 5) Stakeholders; 6) Team Members. All project roles are filled with individual names.",100
+0,auto_grading_trainingset\input_files\input2.txt,100,Milestone,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+1,auto_grading_trainingset\input_files\input2.txt,50,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+2,auto_grading_trainingset\input_files\input2.txt,75,Description,describe the purpose for conducting the project,100
+3,auto_grading_trainingset\input_files\input2.txt,80,Description,describe what is expected to result from the project,100
+4,auto_grading_trainingset\input_files\input2.txt,20,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+5,auto_grading_trainingset\input_files\input2.txt,20,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+6,auto_grading_trainingset\input_files\input2.txt,75,Timeline,list each key task and planned completion dates,100
+7,auto_grading_trainingset\input_files\input2.txt,85,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+8,auto_grading_trainingset\input_files\input2.txt,50,Scope,explain objectives that are in scope. These objectives should match the previously stated project purpose,100
+9,auto_grading_trainingset\input_files\input2.txt,50,Scope,describes objectives that are out of scope. It should be an objective or activity that is peripheral but clearly out of the focus of the project,100
+10,auto_grading_trainingset\input_files\input2.txt,0,Team,"needs to identify: 1) Team Lead, 2) Project Champion, 3) Process Owner; 4) Process Manager; 5) Stakeholders; 6) Team Members. All project roles are filled with individual names.",0
+0,auto_grading_trainingset\input_files\input3.txt,100,Milestone,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+1,auto_grading_trainingset\input_files\input3.txt,50,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",50
+2,auto_grading_trainingset\input_files\input3.txt,20,Description,describe the purpose for conducting the project,50
+3,auto_grading_trainingset\input_files\input3.txt,50,Description,describe what is expected to result from the project,50
+4,auto_grading_trainingset\input_files\input3.txt,20,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,0
+5,auto_grading_trainingset\input_files\input3.txt,20,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",0
+6,auto_grading_trainingset\input_files\input3.txt,85,Timeline,list each key task and planned completion dates,100
+7,auto_grading_trainingset\input_files\input3.txt,80,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+8,auto_grading_trainingset\input_files\input3.txt,50,Scope,explain objectives that are in scope. These objectives should match the previously stated project purpose,100
+9,auto_grading_trainingset\input_files\input3.txt,50,Scope,describes objectives that are out of scope. It should be an objective or activity that is peripheral but clearly out of the focus of the project,100
+10,auto_grading_trainingset\input_files\input3.txt,50,Team,"needs to identify: 1) Team Lead, 2) Project Champion, 3) Process Owner; 4) Process Manager; 5) Stakeholders; 6) Team Members. All project roles are filled with individual names.",100
+0,auto_grading_trainingset\input_files\input4.txt,100,Milestone,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+1,auto_grading_trainingset\input_files\input4.txt,50,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+2,auto_grading_trainingset\input_files\input4.txt,90,Description,describe the purpose for conducting the project,100
+3,auto_grading_trainingset\input_files\input4.txt,80,Description,describe what is expected to result from the project,100
+4,auto_grading_trainingset\input_files\input4.txt,20,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+5,auto_grading_trainingset\input_files\input4.txt,80,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+6,auto_grading_trainingset\input_files\input4.txt,70,Timeline,list each key task and planned completion dates,100
+7,auto_grading_trainingset\input_files\input4.txt,80,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+8,auto_grading_trainingset\input_files\input4.txt,50,Scope,explain objectives that are in scope. These objectives should match the previously stated project purpose,100
+9,auto_grading_trainingset\input_files\input4.txt,50,Scope,describes objectives that are out of scope. It should be an objective or activity that is peripheral but clearly out of the focus of the project,100
+10,auto_grading_trainingset\input_files\input4.txt,40,Team,"needs to identify: 1) Team Lead, 2) Project Champion, 3) Process Owner; 4) Process Manager; 5) Stakeholders; 6) Team Members. All project roles are filled with individual names.",100
+0,auto_grading_trainingset\input_files\input5.txt,50,Milestone,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+1,auto_grading_trainingset\input_files\input5.txt,0,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+2,auto_grading_trainingset\input_files\input5.txt,20,Description,describe the purpose for conducting the project,100
+3,auto_grading_trainingset\input_files\input5.txt,25,Description,describe what is expected to result from the project,100
+4,auto_grading_trainingset\input_files\input5.txt,100,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+5,auto_grading_trainingset\input_files\input5.txt,95,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+6,auto_grading_trainingset\input_files\input5.txt,80,Timeline,list each key task and planned completion dates,100
+7,auto_grading_trainingset\input_files\input5.txt,85,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+8,auto_grading_trainingset\input_files\input5.txt,50,Scope,explain objectives that are in scope. These objectives should match the previously stated project purpose,100
+9,auto_grading_trainingset\input_files\input5.txt,50,Scope,describes objectives that are out of scope. It should be an objective or activity that is peripheral but clearly out of the focus of the project,100
+10,auto_grading_trainingset\input_files\input5.txt,80,Team,"needs to identify: 1) Team Lead, 2) Project Champion, 3) Process Owner; 4) Process Manager; 5) Stakeholders; 6) Team Members. All project roles are filled with individual names.",100
+0,auto_grading_trainingset\input_files\input6.txt,100,Milestone,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+1,auto_grading_trainingset\input_files\input6.txt,50,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",0
+2,auto_grading_trainingset\input_files\input6.txt,20,Description,describe the purpose for conducting the project,0
+3,auto_grading_trainingset\input_files\input6.txt,20,Description,describe what is expected to result from the project,0
+4,auto_grading_trainingset\input_files\input6.txt,25,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,50
+5,auto_grading_trainingset\input_files\input6.txt,20,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",50
+6,auto_grading_trainingset\input_files\input6.txt,100,Timeline,list each key task and planned completion dates,100
+7,auto_grading_trainingset\input_files\input6.txt,75,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+8,auto_grading_trainingset\input_files\input6.txt,50,Scope,explain objectives that are in scope. These objectives should match the previously stated project purpose,100
+9,auto_grading_trainingset\input_files\input6.txt,50,Scope,describes objectives that are out of scope. It should be an objective or activity that is peripheral but clearly out of the focus of the project,100
+10,auto_grading_trainingset\input_files\input6.txt,50,Team,"needs to identify: 1) Team Lead, 2) Project Champion, 3) Process Owner; 4) Process Manager; 5) Stakeholders; 6) Team Members. All project roles are filled with individual names.",100
+0,auto_grading_trainingset\input_files\input7.txt,100,Milestone,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",0
+1,auto_grading_trainingset\input_files\input7.txt,75,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+2,auto_grading_trainingset\input_files\input7.txt,80,Description,describe the purpose for conducting the project,100
+3,auto_grading_trainingset\input_files\input7.txt,70,Description,describe what is expected to result from the project,100
+4,auto_grading_trainingset\input_files\input7.txt,70,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+5,auto_grading_trainingset\input_files\input7.txt,80,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+6,auto_grading_trainingset\input_files\input7.txt,85,Timeline,list each key task and planned completion dates,100
+7,auto_grading_trainingset\input_files\input7.txt,95,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+8,auto_grading_trainingset\input_files\input7.txt,50,Scope,explain objectives that are in scope. These objectives should match the previously stated project purpose,100
+9,auto_grading_trainingset\input_files\input7.txt,50,Scope,describes objectives that are out of scope. It should be an objective or activity that is peripheral but clearly out of the focus of the project,100
+10,auto_grading_trainingset\input_files\input7.txt,100,Team,"needs to identify: 1) Team Lead, 2) Project Champion, 3) Process Owner; 4) Process Manager; 5) Stakeholders; 6) Team Members. All project roles are filled with individual names.",100
+0,auto_grading_trainingset\input_files\input8.txt,100,Milestone,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",0
+1,auto_grading_trainingset\input_files\input8.txt,100,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+2,auto_grading_trainingset\input_files\input8.txt,80,Description,describe the purpose for conducting the project,100
+3,auto_grading_trainingset\input_files\input8.txt,80,Description,describe what is expected to result from the project,100
+4,auto_grading_trainingset\input_files\input8.txt,75,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+5,auto_grading_trainingset\input_files\input8.txt,75,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+6,auto_grading_trainingset\input_files\input8.txt,90,Timeline,list each key task and planned completion dates,100
+7,auto_grading_trainingset\input_files\input8.txt,80,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+8,auto_grading_trainingset\input_files\input8.txt,50,Scope,explain objectives that are in scope. These objectives should match the previously stated project purpose,100
+9,auto_grading_trainingset\input_files\input8.txt,50,Scope,describes objectives that are out of scope. It should be an objective or activity that is peripheral but clearly out of the focus of the project,100
+10,auto_grading_trainingset\input_files\input8.txt,75,Team,"needs to identify: 1) Team Lead, 2) Project Champion, 3) Process Owner; 4) Process Manager; 5) Stakeholders; 6) Team Members. All project roles are filled with individual names.",100
+0,auto_grading_trainingset\input_files\input9.txt,100,Milestone,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+1,auto_grading_trainingset\input_files\input9.txt,0,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",0
+2,auto_grading_trainingset\input_files\input9.txt,20,Description,describe the purpose for conducting the project,0
+3,auto_grading_trainingset\input_files\input9.txt,50,Description,describe what is expected to result from the project,20
+4,auto_grading_trainingset\input_files\input9.txt,20,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+5,auto_grading_trainingset\input_files\input9.txt,25,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+6,auto_grading_trainingset\input_files\input9.txt,75,Timeline,list each key task and planned completion dates,0
+7,auto_grading_trainingset\input_files\input9.txt,75,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,0
+8,auto_grading_trainingset\input_files\input9.txt,50,Scope,explain objectives that are in scope. These objectives should match the previously stated project purpose,0
+9,auto_grading_trainingset\input_files\input9.txt,50,Scope,describes objectives that are out of scope. It should be an objective or activity that is peripheral but clearly out of the focus of the project,0
+10,auto_grading_trainingset\input_files\input9.txt,33.33,Team,"needs to identify: 1) Team Lead, 2) Project Champion, 3) Process Owner; 4) Process Manager; 5) Stakeholders; 6) Team Members. All project roles are filled with individual names.",100

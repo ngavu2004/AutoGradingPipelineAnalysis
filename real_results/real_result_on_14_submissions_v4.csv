@@ -1,0 +1,361 @@
+,filename,Section,Criteria,Real_Grade
+0,input.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",5
+1,input.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",5
+2,input.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",5
+3,input.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",5
+4,input.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",5
+5,input.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",5
+6,input.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",5
+7,input.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",5
+8,input.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",5
+9,input.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+10,input.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+11,input.txt,Timeline,1. Does the value of the each task list key tasks?,5
+12,input.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,5
+13,input.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+14,input.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+15,input.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+16,input.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",5
+17,input.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",5
+18,input.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",5
+19,input.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",5
+20,input.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",5
+21,input.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",5
+22,input.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",5
+23,input.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5
+24,input10.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",5
+25,input10.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",5
+26,input10.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",5
+27,input10.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",5
+28,input10.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",5
+29,input10.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",0
+30,input10.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",0
+31,input10.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",0
+32,input10.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",5
+33,input10.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+34,input10.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+35,input10.txt,Timeline,1. Does the value of the each task list key tasks?,5
+36,input10.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,5
+37,input10.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+38,input10.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+39,input10.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+40,input10.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",5
+41,input10.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",5
+42,input10.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",5
+43,input10.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",5
+44,input10.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",5
+45,input10.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",5
+46,input10.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",5
+47,input10.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5
+48,input11.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",0
+49,input11.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",0
+50,input11.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",0
+51,input11.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",0
+52,input11.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",0
+53,input11.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",0
+54,input11.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",0
+55,input11.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",0
+56,input11.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",0
+57,input11.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",0
+58,input11.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",0
+59,input11.txt,Timeline,1. Does the value of the each task list key tasks?,0
+60,input11.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,0
+61,input11.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+62,input11.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+63,input11.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+64,input11.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",0
+65,input11.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",0
+66,input11.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",0
+67,input11.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",0
+68,input11.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",0
+69,input11.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",0
+70,input11.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",0
+71,input11.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5
+72,input12.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",0
+73,input12.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",0
+74,input12.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",0
+75,input12.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",0
+76,input12.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",0
+77,input12.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",0
+78,input12.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",0
+79,input12.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",0
+80,input12.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",0
+81,input12.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+82,input12.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+83,input12.txt,Timeline,1. Does the value of the each task list key tasks?,5
+84,input12.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,0
+85,input12.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+86,input12.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+87,input12.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+88,input12.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",0
+89,input12.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",0
+90,input12.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",0
+91,input12.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",0
+92,input12.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",0
+93,input12.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",0
+94,input12.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",0
+95,input12.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",0
+96,input14.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",0
+97,input14.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",0
+98,input14.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",0
+99,input14.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",0
+100,input14.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",0
+101,input14.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",5
+102,input14.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",5
+103,input14.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",5
+104,input14.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",5
+105,input14.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+106,input14.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+107,input14.txt,Timeline,1. Does the value of the each task list key tasks?,5
+108,input14.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,5
+109,input14.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",0
+110,input14.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",0
+111,input14.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,0
+112,input14.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",0
+113,input14.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",0
+114,input14.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",0
+115,input14.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",0
+116,input14.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",0
+117,input14.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",0
+118,input14.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",0
+119,input14.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",0
+120,input15.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",5
+121,input15.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",5
+122,input15.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",5
+123,input15.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",5
+124,input15.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",5
+125,input15.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",5
+126,input15.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",5
+127,input15.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",5
+128,input15.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",0
+129,input15.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",0
+130,input15.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",0
+131,input15.txt,Timeline,1. Does the value of the each task list key tasks?,0
+132,input15.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,0
+133,input15.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",0
+134,input15.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",0
+135,input15.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,0
+136,input15.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",0
+137,input15.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",0
+138,input15.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",0
+139,input15.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",0
+140,input15.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",0
+141,input15.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",0
+142,input15.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",0
+143,input15.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",0
+144,input16.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",0
+145,input16.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",0
+146,input16.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",0
+147,input16.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",0
+148,input16.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",0
+149,input16.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",0
+150,input16.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",0
+151,input16.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",0
+152,input16.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",0
+153,input16.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",0
+154,input16.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",0
+155,input16.txt,Timeline,1. Does the value of the each task list key tasks?,0
+156,input16.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,0
+157,input16.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",0
+158,input16.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",0
+159,input16.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,0
+160,input16.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",0
+161,input16.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",0
+162,input16.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",0
+163,input16.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",0
+164,input16.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",0
+165,input16.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",0
+166,input16.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",0
+167,input16.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",0
+168,input2.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",5
+169,input2.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",5
+170,input2.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",5
+171,input2.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",5
+172,input2.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",5
+173,input2.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",5
+174,input2.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",5
+175,input2.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",5
+176,input2.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",5
+177,input2.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+178,input2.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+179,input2.txt,Timeline,1. Does the value of the each task list key tasks?,5
+180,input2.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,5
+181,input2.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+182,input2.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+183,input2.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+184,input2.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",5
+185,input2.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",0
+186,input2.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",5
+187,input2.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",0
+188,input2.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",5
+189,input2.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",5
+190,input2.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",5
+191,input2.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5
+192,input3.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",5
+193,input3.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",5
+194,input3.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",5
+195,input3.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",4
+196,input3.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",5
+197,input3.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",5
+198,input3.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",5
+199,input3.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",5
+200,input3.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",0
+201,input3.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",0
+202,input3.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",0
+203,input3.txt,Timeline,1. Does the value of the each task list key tasks?,5
+204,input3.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,5
+205,input3.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+206,input3.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+207,input3.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+208,input3.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",5
+209,input3.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",5
+210,input3.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",5
+211,input3.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",5
+212,input3.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",5
+213,input3.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",5
+214,input3.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",5
+215,input3.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5
+216,input4.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",5
+217,input4.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",5
+218,input4.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",5
+219,input4.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",5
+220,input4.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",5
+221,input4.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",5
+222,input4.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",5
+223,input4.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",5
+224,input4.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",5
+225,input4.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+226,input4.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+227,input4.txt,Timeline,1. Does the value of the each task list key tasks?,5
+228,input4.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,5
+229,input4.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+230,input4.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+231,input4.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+232,input4.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",5
+233,input4.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",5
+234,input4.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",5
+235,input4.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",5
+236,input4.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",5
+237,input4.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",5
+238,input4.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",5
+239,input4.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5
+240,input5.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",5
+241,input5.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",5
+242,input5.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",5
+243,input5.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",5
+244,input5.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",5
+245,input5.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",5
+246,input5.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",5
+247,input5.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",5
+248,input5.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",5
+249,input5.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+250,input5.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+251,input5.txt,Timeline,1. Does the value of the each task list key tasks?,5
+252,input5.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,5
+253,input5.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+254,input5.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+255,input5.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+256,input5.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",5
+257,input5.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",5
+258,input5.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",5
+259,input5.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",5
+260,input5.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",5
+261,input5.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",5
+262,input5.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",5
+263,input5.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5
+264,input6.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",0
+265,input6.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",0
+266,input6.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",0
+267,input6.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",0
+268,input6.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",0
+269,input6.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",0
+270,input6.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",0
+271,input6.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",0
+272,input6.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",5
+273,input6.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+274,input6.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+275,input6.txt,Timeline,1. Does the value of the each task list key tasks?,5
+276,input6.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,5
+277,input6.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+278,input6.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+279,input6.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+280,input6.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",5
+281,input6.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",5
+282,input6.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",5
+283,input6.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",5
+284,input6.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",5
+285,input6.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",5
+286,input6.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",5
+287,input6.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5
+288,input7.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",5
+289,input7.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",5
+290,input7.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",5
+291,input7.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",0
+292,input7.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",0
+293,input7.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",5
+294,input7.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",5
+295,input7.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",5
+296,input7.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",5
+297,input7.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+298,input7.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+299,input7.txt,Timeline,1. Does the value of the each task list key tasks?,5
+300,input7.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,5
+301,input7.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+302,input7.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+303,input7.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+304,input7.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",5
+305,input7.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",5
+306,input7.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",5
+307,input7.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",5
+308,input7.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",5
+309,input7.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",5
+310,input7.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",5
+311,input7.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5
+312,input8.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",0
+313,input8.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",5
+314,input8.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",5
+315,input8.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",0
+316,input8.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",0
+317,input8.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",5
+318,input8.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",5
+319,input8.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",5
+320,input8.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",5
+321,input8.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+322,input8.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+323,input8.txt,Timeline,1. Does the value of the each task list key tasks?,5
+324,input8.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,5
+325,input8.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",5
+326,input8.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",5
+327,input8.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+328,input8.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",5
+329,input8.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",5
+330,input8.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",5
+331,input8.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",5
+332,input8.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",5
+333,input8.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",5
+334,input8.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",5
+335,input8.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5
+336,input9.txt,Description,"1. Does the name of the ""Project Name:"" attribute specified in the file?",0
+337,input9.txt,Description,"2. Does the name of the ""Clinic:"" attribute specified in the file?",0
+338,input9.txt,Description,"3. Does the name of the ""Process:"" attribute specified in the file?",0
+339,input9.txt,Description,"4. Does the name of the ""TIP 2.0 Process Milestone:"" attribute specified in the file?",0
+340,input9.txt,Description,"5. Does the name of the ""TIP 2.0 Process Milestone:"" attribute provide specific process milestone details?",0
+341,input9.txt,Description,"6. Does the value of the ""Project Description / Purpose"" attribute include a brief description of the project?",0
+342,input9.txt,Description,"7. Does the value of the ""Project Description / Purpose"" attribute include a sentence that explicitly state the purpose of the project?",0
+343,input9.txt,Description,"8. Does the value of the ""Project Description / Purpose"" attribute include a detailed expected results from the project?",0
+344,input9.txt,Overview,"1. Does the value of the ""Problem Summary:"" attribute include a detailed (at least 1 sentence) and logical problem statement (relating to the project description/purpose)?",5
+345,input9.txt,Overview,"2. Does the value of the ""Desired Outcome(s):"" attribute include a at least 1 sentence explicitly talking about the expected results/desired outcomes?",5
+346,input9.txt,Overview,"3. Does the value of the ""Benefits:"" attribute include a least 1 sentence explicitly talking about the benefits of this project?",5
+347,input9.txt,Timeline,1. Does the value of the each task list key tasks?,5
+348,input9.txt,Timeline,2. Does the value of the each task contain a specific planned completion due dates?,0
+349,input9.txt,Scope,"3. Does the value of the ""In Scope Project Objectives"" attribute include an aligned objectives with the project purpose?",0
+350,input9.txt,Scope,"4. Does the value of the ""Out of Scope Project Objectives or Activities"" attribute include an aligned objectives with the project purpose?",0
+351,input9.txt,Scope,5. Does the value of the In Scope Project Objectives align with project milestone?,5
+352,input9.txt,Team,"1. Does the value of the ""Team Lead:"" attribute contain an individual's name?",5
+353,input9.txt,Team,"2. Does the value of the ""Project Champion:"" attribute contain an individual's name?",5
+354,input9.txt,Team,"3. Does the value of the ""Process Owner:"" attribute contain an individual's name?",5
+355,input9.txt,Team,"4. Does the value of the ""Process Manager:"" attribute contain an individual's name?",5
+356,input9.txt,Team,"5. Does the value of the ""Stakeholders"" ""stakeholder"" attribute contain an individual's name?",5
+357,input9.txt,Team,"6. Do the ""Stakeholders"" contain values for the attributes: title, department, and organization?",5
+358,input9.txt,Team,"7. Does the value of the ""Project Team Members"" ""Name"" attribute contain an individual's name?",5
+359,input9.txt,Team,"8. Do the ""Project Team Members"" contain role values for the ""Team role"" attribute?",5

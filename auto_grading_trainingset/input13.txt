@@ -1,0 +1,96 @@
+Description:
+Project Name: Health Related Social Needs
+Clinic: Corazon Behavioral Health Services
+Process: Operational: Implement a new HRSN screening protocol with an evidence‐based questionnaire.
+TIP 2.0 Process
+Milestone: New Milestone
+Project Description / Purpose
+Implementation shall include:
+1. Screening members served by the practice annually using an evidence‐based, standardized HRSN screening tool that
+includes (at least) the following domains: housing instability, utility assistance, food insecurity, transportation needs, and
+interpersonal safety.
+2. Documenting screening results in the member’s Electronic Health Record (EHR) and claims (i.e. G codes and Z codes)
+and establishing processes to maintain the confidentiality of patient data.
+3. Identifying, selecting, and establishing partnerships with CBOs, especially those focused on shelter, food, utility
+assistance, and transport, to deliver resources and/or interventions. Practices should prioritize relationships with CBOs
+that address social needs that are prevalent within the practice population.
+4. Develop referral and communication processes with each CBO to refer members for community resources and/or
+interventions using the statewide closed‐loop referral system CommunityCares.
+5. Making referrals to and tracking the status of member referrals to CBOs to ensure receipt of services and/or
+interventions.
+6. Ensuring practice team members are effectively sharing and receiving referral data from CBOs, through
+CommunityCares or other means.
+
+Overview:
+Problem
+Summary:
+Despite the recognized importance of HRSN, there is a significant gap in the systematic screening and
+addressing of these needs within healthcare settings. Patients with unmet social needs often
+experience poorer health outcomes, higher healthcare utilization, and increased costs. The lack of
+standardized screening processes and tools, coupled with insufficient integration of HRSN data into
+clinical workflows, impedes the effective identification and management of patients' social needs.
+Desired
+Outcome(s):
+1. Improved identification of patients' health‐related social needs.
+2. Enhanced ability of healthcare providers to address and manage social needs.
+3. Better health outcomes for patients with previously unmet social needs.
+4. Reduced healthcare utilization and costs associated with unmanaged social needs.
+5. Greater integration of social care into healthcare delivery.
+Benefits:
+By addressing these challenges and objectives, the project aims to create a more holistic approach to
+patient care, where social determinants of health are routinely considered and managed alongside
+medical needs.
+
+Timeline:
+Description of Task and Completion Dates
+Task 1 The Administrative Team will review and implement a standardized HRSN screening tool by
+Task 2 The Administrative Team will develop a seamless workflow for HRSN screening that minimizes
+disruption to clinical practices
+Task 3 The Clinical Director will train providers on the importance of HRSN, how to use the screening tool,
+and how to address identified needs
+Task 4 The Administrative Team will collaborate with CommunityCares to implement the data management
+system to securely collect, store, and analyze HRSN data
+Task 5 The Administrative Team will establish partnerships with community resources and services to
+address identified social needs.
+Task 6 The Administrative Team will ensure patient privacy and confidentiality while fostering trust in the
+screening process.
+
+Scope:
+In Scope Project Objectives
+Objective: To implement the HRSN screening tool. Due Date: September 30th, 2024
+Objective: To develop and implement an internal workflow for the HRSN with minimal disruption to clinical practices. Due Date:
+September 30th, 2024
+Objective: To train all staff on the importance of the HRSN Screening tool, its use, and the process of referring as needed. Due
+Date: September 30th, 2024
+Objective: To implement the Unite US/ Health Current/ Community Cares platform. Due Date: September 30th, 2024
+Objective: To partner with Community Based Organizations by enlisting them to join the Community Cares platform and
+streamline the referral process for HRSNs.
+Objective: To provide all clients with Client Rights form to ensure best practices of patient privacy and confidentiality.
+Out of Scope Project Objectives or Activities
+By September 30 th
+, 2024
+Objective: Complete LabCorp Attestations for HealthCurrent participation. Due Date: September 30th, 2023
+Objective: Complete the HealthCurrent Portal Project for HIE 3.0 Portal training and onboarding for administrative staff. Due
+Date: September 30th, 2023
+Objective: A minimum of 1 staff member to attend the SDOH CommunityCares Stage 1 Introduction Meeting. Due Date: April
+22 nd
+, 2024
+Objective: A minimum of 1 staff member to attend the SDOH CommunityCares Stage 2 Unite Us Engagement Session. Due Date:
+April 23 rd
+, 2024
+Objective: Submit the completed SDOH Contact & Community Partners Spreadsheet and workflow. Due Date: April 30 th , 2024
+Objective: All staff to attend the SDOH CommunityCares Program‐ Go Live. Onboarding, Launch Plan, New User Training Due
+Date: May 31 st
+, 2024.
+Objective: The Web Manager will attach the HTML code for the Assistance Request linked to the Corazon website. Due Date:
+September 30 th , 2024
+
+Team:
+Stakeholder Title Department Organization
+Kristina Belinte SDOH Senior Advisor CommunityCares Program Contexture
+Beatriz Satizabal Implementation Manager Family Medicine Unite US
+Anne Rolle Implementation Project Manager Contexture Contexture
+Kelly Flones Tech Support CommunityCares Unite Us
+Stephen Brown Account Manager Contexture/ HealthCurrent Contexture
+Susan Fassett Implementation Project Manager Contexture/ HealthCurrent Contexture
+Merli De Leon Client Support Specialist Contexture/ HealthCurrent Contexture

@@ -1,0 +1,86 @@
+Description:
+Project Name: Community Cares Utilization and Data Management
+Clinic: A New Leaf
+Process: Monitoring and reporting referral data for improved utilization and outcomes.
+TIP 2.0 Process Milestone: Connect to and demonstrate effective use of the statewide closed loop referral
+system (Community Cares), or other closed loop referral system(s) that can report
+referral-level details, to connect members seen to community resources.
+Project Description / Purpose
+Enter a brief description of the project, the purpose for conducting the project and a general description of what is
+expected to result from the project.
+Our agency utilizes Community Cares closed loop referral system to connect members to community resources. This
+referral platform was launched across programs in January 2023 . During the first implementation phase in our agency,
+staff were provided access, trained, and a high level oversight and monitoring was occurring as we adopted the
+platform into several programs. The agency has since been using the system more regularly and data reporting and
+metrics have become available recently through a Workforce Management Dashboard. Our project is for
+Management/Director level staff to understand, utilize, and be able to monitor outcomes for their programs utilizing
+the new dashboard and reports available. Information and data can then drive process improvements and efficiencies,
+help identify gaps in services, and create potential networking opportunities that benefit clients and programs.
+
+Overview:
+Problem Summary:
+Enter description of problem or performance gap identified here. Include descriptions of
+the impact to staff and/or patients.
+Since adoption and implementation of Community Cares, there has not been a
+consistent and efficient process to monitor staff usage of the system and outcomes of
+referrals submitted/received.
+Desired Outcome(s):
+Describe the desired outcome(s) of the project
+The agency will fully utilize the data reporting system, Workforce Dashboard, to
+monitor staff usage and outcomes of referrals submitted/received.
+Management/Director level staff will be trained and able to run, monitor, and evaluate
+data and reports that may improve processes, identify gaps in services, and create
+standards for staff utilization.
+Benefits:
+Enter a description of the expected benefits here
+By having reports and data that are understood and monitored by managers/directors,
+this provides oversight on many levels. Standards can be created for staff that holds
+them accountable for utilization and follow through on referrals for clients, supervisors
+are monitoring and managing outcomes for their staff and programs, and leadership is
+able to clearly understand any gaps in services or resources.
+
+Timeline:
+Description of Task and Completion Dates
+Task 1
+Training on Workforce Dashboard for Directors to understand capabilities and functionality of reporting
+system. Training completed with Sebastian Blackwell, Customer Success Executive for Unite Us, on
+6/5/24
+Task 2 Review monthly reports that will be ran and data to be reported to leadership monthly. Create a guide
+for the agency that outlines reports and required monitoring timeframes. Completion date of 7/15/24
+Task 3 Collaborate with Directors to determine staff utilization standards for each program and communicate
+expectations to staff. Completion date of 8/15/24
+Task 4 Provide update on project at Senior Leadership team meeting which includes standards, monthly
+outcomes, and any process improvement needs identified. Completion date of 9/9/24
+Task 5 Review quarterly data at Director meeting to identify gaps in services and resources, and networking
+opportunities. Completion date by 9/20/24
+
+Scope:
+In Scope Project Objectives
+Enter a description of the objectives that are in scope here.
+All tasks that are currently scheduled are in line with our scope of work and relative to our Milestone for T.I.2.0.
+Connecting clients to resources and making referrals for HRSNs (internal and external), utilizing the Community
+Cares referral system, and monitoring staff, program, and client outcomes through an efficient and effective
+reporting system.
+Out of Scope Project Objectives or Activities
+Enter description of the objectives or activities that are out of scope here.
+Our project extends to all A New Leaf programs and not limited to the program included in T.I. 2.0.
+
+Team:
+Team Lead: Angela Abad Project Champion:
+Process Owner: Angela Abad Process Manager:
+Stakeholders
+Stakeholder Title Department Organization
+Robin Bertolini Sr. Information Systems
+Manager Information Technology A New Leaf
+Karen Brown Director of Strategic
+Initiatives Administrative A New Leaf
+Pamela Arp Information Systems
+Applications Lead Information Technology A New Leaf
+Project Team Members
+Name Team Role
+Michelle Boyle Director
+Dana Martinez Director
+Toni Davis Director
+Eva Felix Director
+James Diaz Director
+Sarah Rojas Director

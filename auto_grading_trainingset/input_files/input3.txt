@@ -1,0 +1,53 @@
+Description:
+Project Name: SDOH Processing Improvement
+Clinic: Desert Valley Pediatrics
+Process: SDOH Processing
+TIP 2.0 Process Milestone: 3 – Implementing a process for HRSN and connecting members to CBOs
+Project Description / Purpose
+Revising our SDOH process to ensure every patient is screened at appropriate intervals, that referrals are processed for
+needs, and that the screenings are documented and filed to the health plans.
+
+Overview:
+Problem Summary:
+Processing of Z and G codes are being missed when provider documentation is done.
+Z and G codes are being rejected at the clearinghouse processing levels.
+Staff member assignment clarification
+Desired Outcome(s):
+Positive screenings are being referred appropriately
+All screens are being reported to the health plans
+Benefits:
+To ensure patients with positive/negative screens are being recognized by both the
+practice and the health plans
+
+Timeline:
+Description of Task and Completion Dates
+Task 1 Revise policy to determine when patients are screened and the duties of each staff member in the
+process – 6/30/2024
+Task 2 Retrain staff as to their responsibility in the screening process – 7/31/2024
+Task 3 Test filing G and Z codes to the health plans to determine where barriers lie – 6/30/2024
+Task 4 Discuss with clearinghouse rule exceptions to allow codes to be filed electronically – 6/30/2024
+Task 5 Test filing G and Z codes to health plans once exception is written at the clearing house level –
+7/31/2024
+
+Scope:
+In Scope Project Objectives
+All screenings done at appropriate intervals
+Out of Scope Project Objectives or Activities
+Parental compliance once referral information is made available
+
+Team:
+Team Lead: Kim Briggs Project Champion: Kim Briggs
+Process Owner: Medical
+Assistants/Nurses Process Manager: Terri Hale
+Stakeholders
+Stakeholder Title Department Organization
+Kim Briggs Assistant Administrator Administration Desert Valley Pediatrics
+Terri Hale Director of Operations Administration Desert Valley Pediatrics
+Project Team Members
+Name Team Role
+Kristal Fabian, Care Manager Follow up on SDOH Referrals
+Mercedes Sanchez, Referrals Coordinator Process positive SDOH Referrals
+Erin Christy Fehr Follow up on screening codes
+Front Desk Screening determination and initial paperwork
+Medical assistance Collection of screenings, collaboration with providers on
+results

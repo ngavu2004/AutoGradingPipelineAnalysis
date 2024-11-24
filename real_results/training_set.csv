@@ -1,0 +1,41 @@
+,File,Grade,Section,Criteria,RealGrade
+0,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input.txt,100,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+0,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input.txt,100,Description,describe the purpose for conducting the project,100
+1,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input.txt,100,Description," describe what is expected to result from the project, include clear project  description and purpose statement with enough detail",100
+0,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input.txt,90,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+4,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input.txt,90,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+2,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input.txt,95,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,100
+2,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input.txt,95,Timeline,list each key task and planned completion dates,100
+2,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input.txt,90,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+4,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input2.txt,75,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+3,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input2.txt,75,Description,describe the purpose for conducting the project,100
+2,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input2.txt,80,Description," describe what is expected to result from the project, include clear project  description and purpose statement with enough detail",100
+1,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input2.txt,10,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,60
+1,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input2.txt,20,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",50
+0,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input2.txt,20,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,40
+0,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input2.txt,95,Timeline,list each key task and planned completion dates,100
+0,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input2.txt,95,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+1,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input3.txt,0,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",0
+1,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input3.txt,20,Description,describe the purpose for conducting the project,50
+0,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input3.txt,0,Description," describe what is expected to result from the project, include clear project  description and purpose statement with enough detail",40
+2,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input3.txt,85,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+2,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input3.txt,60,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+3,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input3.txt,80,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,100
+1,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input3.txt,75,Timeline,list each key task and planned completion dates,100
+3,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input3.txt,75,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+3,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input4.txt,100,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+2,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input4.txt,85,Description,describe the purpose for conducting the project,100
+3,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input4.txt,80,Description," describe what is expected to result from the project, include clear project  description and purpose statement with enough detail",100
+3,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input4.txt,80,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+0,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input4.txt,70,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",60
+4,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input4.txt,60,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,60
+4,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input4.txt,80,Timeline,list each key task and planned completion dates,100
+1,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input4.txt,95,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100
+2,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input5.txt,50,Description,"include a brief description (Name,Clinic, Milestone with enough detail, Description/Purpose) of the project. If it lacks any of these, grade it 0.",100
+4,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input5.txt,80,Description,describe the purpose for conducting the project,100
+4,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input5.txt,80,Description," describe what is expected to result from the project, include clear project  description and purpose statement with enough detail",100
+4,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input5.txt,100,Overview,describe problems or performance gaps with descriptions of impact on staff and/or patients,100
+3,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input5.txt,95,Overview,"describe the desired outcome(s) of the project, and identify expected benefits",100
+1,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input5.txt,100,Overview,include a detailed problem summary with appropriate desired outcome(s) and expected benefits,100
+3,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input5.txt,75,Timeline,list each key task and planned completion dates,100
+4,C:/Users/thiquynh/Documents/Vu/auto_grading_trainingset/input_files\input5.txt,95,Timeline,include feasible and appropriate steps related to the project aim with specific due dates,100

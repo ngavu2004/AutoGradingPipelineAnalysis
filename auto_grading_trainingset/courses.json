@@ -1,0 +1,46 @@
+[
+    {
+        "id": 8575713,
+        "name": "TIPQIC 2.0",
+        "account_id": 81259,
+        "uuid": "D4u9XUgJa3a6zPOLrC1fl83mNzlvxCKfAh0BB2Ii",
+        "start_at": null,
+        "grading_standard_id": null,
+        "is_public": false,
+        "created_at": "2024-01-25T22:21:21Z",
+        "course_code": "TIPQIC 2.0",
+        "default_view": "wiki",
+        "root_account_id": 10,
+        "enrollment_term_id": 1,
+        "license": "private",
+        "grade_passback_setting": null,
+        "end_at": null,
+        "public_syllabus": false,
+        "public_syllabus_to_auth": false,
+        "storage_quota_mb": 2000,
+        "is_public_to_auth_users": false,
+        "homeroom_course": false,
+        "course_color": null,
+        "friendly_name": null,
+        "apply_assignment_group_weights": false,
+        "calendar": {
+            "ics": "https://canvas.instructure.com/feeds/calendars/course_D4u9XUgJa3a6zPOLrC1fl83mNzlvxCKfAh0BB2Ii.ics"
+        },
+        "time_zone": "America/Denver",
+        "blueprint": false,
+        "template": false,
+        "enrollments": [
+            {
+                "type": "ta",
+                "role": "TaEnrollment",
+                "role_id": 995,
+                "user_id": 112620524,
+                "enrollment_state": "active",
+                "limit_privileges_to_course_section": false
+            }
+        ],
+        "hide_final_grades": false,
+        "workflow_state": "available",
+        "restrict_enrollments_to_course_dates": false
+    }
+]

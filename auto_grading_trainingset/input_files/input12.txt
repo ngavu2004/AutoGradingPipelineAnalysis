@@ -1,0 +1,48 @@
+Description:
+Screening clients for Health-Related Social Needs (HRSN) using an evidenced based screening tool on an annual basis is
+needed to better understand and act on EMPACT-SPC’s clients Social Determinants of Health (SDOH). EMPACT-SPC does
+not currently utilize a HRSN on a consistent basis. The purpose of this project is to increase the percentage of completed
+PRAPARE screenings to at least 85% of clients seen by EMPACT-SPC between October 1, 2024, and March 31, 2025.
+
+Overview:
+Benefits:
+The 85% screening rate utilizing the PRAPARE Tool will provide information on risk
+factors that need to be addressed either internally or connecting the clients to external
+community resources. Identifying and addressing the HRSN will improve the health and
+well-being of EMPACT-SPC clients and connect them to the necessary community
+resources.
+
+Timeline:
+Description of Task and Completion Dates
+Task 1 July 1, 2024
+Task 2 September 30, 2024
+Task 3 Monthly beginning November 1, 2024
+
+Scope:
+In Scope Project Objectives
+The main objective in the PRAPARE Implementation project is to utilize strategies to increase the usage of the HRSN
+Screening Tool to achieve a minimum of 85% utilization rate for EMPACT-SPC clients on an annual basis.
+Out of Scope Project Objectives or Activities
+EMPACT-SPC will not address any other activities outside the primary scope of this project.
+
+
+Team:
+Team Lead: Sarah Nadler-Population
+Health Administrator Stakeholder Title Department Organization
+Lisa Brody-Doucet Associate Director of
+Clinical Services Outpatient EMPACT-SPC
+Cecilia Cardona Associate Director of
+Clinical Services Outpatient EMPACT-SPC
+Samantha Gaskill Program Manager Outpatient EMPACT-SPC
+Amy Coppinger Program Manager Outpatient EMPACT-SPC
+Brittney Freeman Program Manager Outpatient EMPACT-SPC
+Laura Barnes Program Manager Outpatient EMPACT-SPC
+Norah Mehta Program Manager Outpatient EMPACT-SPC
+Rachel Trautner Program Manager Outpatient EMPACT-SPC
+Rachelle Calhoun Program Manager Outpatient EMPACT-SPC
+Project Team Members
+Name Team Role
+Tara Devine SQL Database Administrator
+Jason Schlosberg Health Informatics and Technology Manager
+Rachel Sartin Training Manager
+Dustin Buschow Director of Information Technology

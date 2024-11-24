@@ -1,0 +1,75 @@
+Description:
+Project Name: SDOH screen
+Clinic: Pleasant Pediatrics - all clinic locations
+Process: Distribution of screening tool and documentation of screening results
+TIP 2.0 Process Milestone: Milestone 1c
+Project Description / Purpose
+SDOH (Social Determinants of Health) screening tools are helpful to identify barriers in a patient’s life that can affect
+their health outcomes. Having a clear picture of our patient’s socioeconomic needs helps providers make better decisions
+and direct better care and referrals specifically for their patient.
+Pleasant Pediatrics has done an SDOH screening tool in the past but was not continued for varied reasons (parent
+dissatisfaction, lack of resources to refer to, lack of staff to manage the care, etc). The purpose of this project is to
+resume, improve and continue SDOH screening with a goal of 95% completion rate in completed screens AND proper
+documentation over 8 consecutive weeks. The success of this project will improve our case identification and connect
+more patients with appropriate referrals, resources, and better treatment plans based on known socioeconomic status.
+
+Overview:
+Problem Summary:
+Non-medical conditions that significantly affect health and quality of life are called social
+determinants of health (SDOH). In the past Pleasant Pediatrics did participate in this
+type of screening but was dropped for several reasons. With participation in quality
+improvement projects, Pleasant Pediatrics is determined and desires to resume and
+improve on completing the screening so we can provide referrals, resources and
+providers can create better treatment plans for our patients. Since it has been several
+years since this tool has been regularly implemented, no referrals for resources have
+been done and there has been less knowledge about patient’s socioeconomic status
+when making treatment plans.
+Desired Outcome(s):
+Increase the number of completed SDOH screens AND proper documentation of age
+appropriate patients; and thus downstream referrals and resources for patient’s and
+their families.
+Benefits:
+The success of this project will increase our chance for identifying patients with
+socioeconomic deficits and provide them with proper support, referrals, and treatment.
+
+Timeline:
+Description of Task and Completion Dates
+Task 1 Review sample SDOH screening tools to help generate one tailored to Pleasant Pediatrics (3/2024)
+Task 2 Create SDOH screening tool (3/2024)
+Task 3 Create SDOH screening protocol process/process mapping (6/2024)
+Task 4 Train and educate staff on SDOH screening protocol/process mapping (6/2024)
+Task 5 Initiate SDOH screening
+Task 6 Complete 1st Fishbone diagram and 5 whys with team (7/2024)
+Task 7 Complete 1st PDSA cycles (7/30/2024-8/30/2024)
+Task 8 Complete 2nd/Formal Fishbone diagram and 5 whys with team assignment (9/2024)
+Task 9 Completed 2nd/Formal PDSA cycles assignment (9/2024)
+Task 10 Update screening protocol (9/2024)
+Task 11 Cross-train staff and implement final changes (Front, MA, Provider) (9/2024)
+
+Scope:
+In Scope Project Objectives
+The primary objective of this project is to use quality improvement strategies to improve the completion AND
+documentation for SDOH screening for all age qualifying patients.
+Out of Scope Project Objectives or Activities
+We are not addressing any problems related to other screening measures, introducing any new screening protocol,
+hiring any new staff, or making other major changes to current protocol
+
+Team:
+Team Lead:
+
+Project Champion:
+
+
+Process Owner:
+
+
+Process Manager:
+
+Stakeholders
+Stakeholder
+Title
+Department
+Organization
+Project Team Members
+Name
+Team Role
